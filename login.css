@@ -1,0 +1,26 @@
+body {
+    margin: 80px;
+    padding: 0;
+    background-color: #0b17bb;
+    height: 50vh;
+  }
+  .container {
+     margin-left: auto;
+     margin-right:auto;
+     max-width:260px;
+     height: 350px;
+     border: 2px solid #1b1414;
+     background-color: #d7dbe0;
+     padding: 20px;
+     width:auto;
+    
+  }
+.text-info{
+    margin: 30%;
+    background-color: #310b8b;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+    
+}
+ 
